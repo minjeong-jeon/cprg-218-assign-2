@@ -19,7 +19,7 @@ h1, p {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(91, 91, 91, 0.5), rgba(86, 86, 86, 0.5)), url("/asset/banner-image.jpg");
+    background-image: linear-gradient(rgba(91, 91, 91, 0.5), rgba(86, 86, 86, 0.5)), url("./asset/banner-image.jpg");
     height: 100%; /* Set height to 100% to fill the container */
     background-position: center;
     background-repeat: no-repeat;
